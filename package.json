@@ -19,9 +19,12 @@
     "@nextui-org/react": "^2.6.10",
     "@nextui-org/system": "^2.4.5",
     "@nextui-org/theme": "^2.4.4",
+<<<<<<< HEAD
     "axios": "^1.7.9",
     "cors": "^2.8.5",
     "express": "^4.21.2",
+=======
+>>>>>>> 731189b1ceea7ce246e2abd551a1b2835180a669
     "framer-motion": "^11.15.0",
     "lucide-react": "^0.469.0",
     "react": "^18.3.1",
